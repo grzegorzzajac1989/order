@@ -1,0 +1,21 @@
+body{
+	margin:0;
+	font-family:Helvetica, Arial;
+	font-size:small;
+	color: white; 
+	background-color: black;
+}
+
+.google-search {
+   display: block;
+   margin: auto;
+   width: 300px;
+   height: 300px;
+   padding-top: 25px;
+   padding-bottom: 25px; 
+}
+
+.whatsapp {
+	width: 300px;
+	height: 300px;
+}
